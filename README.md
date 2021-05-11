@@ -4,4 +4,5 @@
 - ⚡ Fun fact: This won't be edited very often.
 
 ## About me
-Maybe, I'm a real person
+- Maybe, I'm a real person
+- I like linux
